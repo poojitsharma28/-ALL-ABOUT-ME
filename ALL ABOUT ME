@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title> #All About Me - [Poojit Sharma]</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #000000;
+      color: #ffffff;
+      font-family: 'Poppins', sans-serif;
+      padding: 30px;
+      line-height: 1.7;
+    }
+
+    h1, h2, h3 {
+      color: #4dd0e1;
+    }
+
+    .section {
+      margin-bottom: 50px;
+    }
+
+    hr {
+      border: 1px solid #4dd0e1;
+      margin: 30px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to My Personal Webpage</h1>
+  <p><b>Hi!</b> I'm <i>[Poojit Sharma]</i> and this page is all about me. Let's explore!</p>
+  <hr>
+
+  <div class="section">
+    <h2>About Me</h2>
+    <p>I am a student in <b>7th grade</b>. I enjoy learning new things like science, art, and technology.<br>
+    In my free time, I like to draw, play games, and hang out with my friends.</p>
+  </div>
+
+  <hr>
+
+  <div class="section">
+    <h2>My Favorite Hobby</h2>
+    <p><u>Drawing</u> is my favorite hobby. I love creating characters and scenes from my imagination.<br>
+    I use pencils, pens, and sometimes digital tools like a tablet. It's a great way to express how I feel.</p>
+  </div>
+
+  <hr>
+
+  <div class="section">
+    <h2>My Dream Vacation</h2>
+    <p>My dream vacation is to visit <b>Japan</b>. I want to see the cherry blossoms, visit anime stores,try sushi and buy japenese toys based on real physics !<br>
+    I also want to see Mount Fuji, ride a bullet train and got to Fuji San nearest city to Mount FujiJapan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters.</p>
+  </div>
+
+  <hr>
+
+  <div class="section">
+    <h2>Poojit Sharma</h2>
+    <p>I go to <b>[St.Arnold's School Lalaramnagar Indore]</b>. It's a great place where I learn a lot and have fun.<br>
+    My favorite subject is <i>[General Knowledge And Computer.]</i> because it's interesting and exciting.</p>
+  </div>
+
+  <hr>
+
+  <h3>Thanks for visiting my website! 😊</h3>
+
+</body>
+</html>
